@@ -1,0 +1,11 @@
+.thumbnail {
+  height: 80px;
+  width: 90px;
+  margin-right: 15px;
+  margin-bottom: 15px;
+}
+.thumbnail-button {
+  border-width: 0px;
+  background-color: transparent;
+  padding: 0px;
+}
